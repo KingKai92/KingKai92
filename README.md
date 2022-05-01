@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kai Ducre
 - 👀 I’m interested in learning to devlop in the web3 space
-- 🌱 I’m currently learning Solidity and Javascript
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
